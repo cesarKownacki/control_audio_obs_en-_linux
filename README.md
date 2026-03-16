@@ -1,0 +1,1 @@
+En Windows, la captura de audio por aplicación es un estándar. En Linux, es una oportunidad de personalización extrema. Este script no es solo código; es el puente que me permitió traer mi flujo de trabajo de producción musical y streaming al ecosistema Open Source sin sacrificar funcionalidad
